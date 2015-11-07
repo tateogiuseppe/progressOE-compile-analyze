@@ -1,13 +1,4 @@
-# progressOE-compile-analyze
-Progress OpenEdge 4gl analytics tool able to read the source code and suggest optimisations focosing on db indexs
-
-Documentation, Examples, FAQ and License @ : [http://tateogiuseppe.github.io/progressOE-compile-analyze/](http://tateogiuseppe.github.io/progressOE-compile-analyze/).
-
-![Example of a multiselect.](example.png?raw=true "Example of a multiselect.")
-
-## License
-
-**Apache License, Version 2.0**
+Apache License, Version 2.0
 
 Copyright (c) 2012 - 2014 Giuseppe Tateo
 
@@ -15,7 +6,7 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-**BSD 3-Clause License**
+BSD 3-Clause License
 
 Copyright (c) 2012 - 2014 Giuseppe Tateo
 All rights reserved.
