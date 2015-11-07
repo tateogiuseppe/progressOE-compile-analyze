@@ -3,7 +3,7 @@ Progress OpenEdge 4gl analytics tool able to read the source code and suggest op
 
 Documentation, Examples, FAQ and License @ : [http://tateogiuseppe.github.io/progressOE-compile-analyze/](http://tateogiuseppe.github.io/progressOE-compile-analyze/).
 
-![Example of a multiselect.](example.png?raw=true "Example of a multiselect.")
+![Example of a compile analyze.](example.png?raw=true "Example of a compile analyze.")
 
 ## License
 
